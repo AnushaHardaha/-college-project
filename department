@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>Div Tag example</title>
+</head>
+<body>
+<div style="width:100%; height:100%; float:left; border: 1px solid red;">
+	<div style="width:100%; height:20%; float:left; border: 1px solid blue;">
+		<div style="width:20%; height:100%; float:left; border: 1px solid blue;">
+		<img src="F:\college logo anu.jpg" width="350px" height="200px">
+		</img>
+		</div>
+		
+		<div style="width:79.6%; height:100%; float:left; border: 1px solid blue; background-color:steelblue; color:white;">
+		<center><marquee behavior="alternate"><h1>Government Women's Polytechnic College </h1></marquee></center>
+		</div>
+	</div>
+	
+	<div style="width:100%; height:10%; float:left; border: 1px solid blue; background-color:yellow;">
+	<center>
+	<ul>
+		<li style="display:inline;">
+			<a href="https://www.google.com/" target="_blank" style="color:white;"> Google</a>
+		</li>
+		<li style="display:inline;">
+			<a href="https://www.facebook.com/" target="_blank" style="color:white;"> Facebook</a>
+		</li>
+		<li style="display:inline;">
+			<a href="https://www.instagram.com/" target="_blank" style="color:white;"> Instagram</a>
+		</li>
+		<li style="display:inline;">
+			<a href="https://www.youtube.com/" target="_blank" style="color:white;"> Youtube</a>
+		</li>
+		<li style="display:inline;">
+			<a href="https://www.linkedin.com/" target="_blank" style="color:white;"> LinkedIn</a>
+		</li>
+	</ul>
+	</center>
+	</div>
+	
+	<div style="width:10%; height:20%; float:left; border: 1px solid blue;">
+	<img src="F:\g4.jpg" width="1520px" height="155px">
+		</img>
+	</div>
+	
+	<div style="width:99.9%; height:20%; float:left; border: 1px solid blue;">
+	<p align="justify">
+		<b>   Infrastructure: <b>
+<br>The Government Women’s Polytechnic, Jabalpur for Women was started in 1990. Since then, the college has developed into a big Educational Institute of Jabalpur. Spread over 10.5 acres of land, it is one of the biggest colleges of M.P.
+Building is designed very artistically, is well ventilated and spacious. The five gardens are the best hangouts for the students in their free time.</br> 
+
+<br> The College has big pssssssslaygrounds and courts for Basket-ball, Volley-ball etc. The Classrooms are equipped with close circuit cameras, thus permitting close monitoring of teaching, examinations and other activities in various rooms simultaneously by the Principal. The hostel is located in the college campus making it safer and convenient for the students.</br>
+
+		</p>
+	</div>
+	
+	<div style="width:100%; height:29%; float:left; border: 1px solid orangered;">
+		<div style="width:49.8%; height:100%; float:left; border: 1px solid orangered;">
+		<p align="justify">
+		<b>Cource</b>
+               
+              <br>Costume Design & Dress Making </br>
+             <br>Computer Science &Engineering</br>
+             <br>Electronics & Telecommunication</br>
+             <br>Fashion Technology</br>
+             <br>Modern Office Management</br>
+             
+		</p>
+		</div>
+		
+		<div style="width:49.7%; height:100%; float:left; border: 1px solid blue;">
+		<center>Contact Us</center>
+		<strong>Address:</strong> eska maka damo naka <br> 
+		<strong>Phone:</strong> <a href="tel:+91-761-2623519">+91-761-2623519</a> <br> 
+		<strong>Email:</strong> <a href="gwpcjabalpurinfo@gmail.com">gwpcjabalpurinfo@gmail.com</a> <br> 
+		</div>
+	</div>
+
+</div>
+</body>
+</html>
